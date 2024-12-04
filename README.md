@@ -19,7 +19,7 @@ git clone https://github.com/n3s0/randfile.git
 Build the application.
 
 ```sh
-go build .
+go build 
 ```
 
 Move the application to wherever you wish. I'll work on making installation a
