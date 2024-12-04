@@ -34,6 +34,12 @@ Running the application is pretty straight forward. Run randfile with either the
 randfile -p /path/to/directory
 ```
 
+OR (if it's not in the file path)
+
+```sh
+./randfile -p /path/to/directory
+```
+
 Provided is the output of the command.
 
 ```sh
